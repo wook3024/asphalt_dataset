@@ -3,7 +3,7 @@ asphalt_dataset(Sylvie + swook)
 
 <br/>
 
-It costs a lot of money to detect cracks directly. In modern society, we can achieve automation using deep learning. Using this dataset, cracks in asphalt can be detected at a low cost. The dataset consisted of Sylvie's data and Swook's filmed data.
+It costs a lot of money to detect cracks directly. In modern society, we can achieve automation using deep learning. Using this dataset, cracks in asphalt can be detected at a low cost. The dataset consisted of Sylvie's data and Swook's data.
 
 <br/>
 
